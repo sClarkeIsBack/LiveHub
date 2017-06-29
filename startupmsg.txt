@@ -3,8 +3,8 @@
 [COLOR red]Facebook  : http://facebook.com/groups/streamh[/COLOR]
 [COLOR red]Repository: http://archive.org/download/repository.streamhub[/COLOR]
 
-[COLOR white]All Content Found Within This Addon is Found On The Internet, We [/COLOR][COLOR red][B]DO NOT[/B][/COLOR] Own or Host Any Of The Content Found Within This Addon[/COLOR]
+[COLOR white]All Content Found Within This Addon is Found On The Internet[/COLOR]
+[COLOR white]We [/COLOR][COLOR red][B]DO NOT[/B][/COLOR] [COLOR white]Own or Host Any Of The Content Found Within This Addon[/COLOR]
+[COLOR white]We Simply Gather The Links For You, Making Them Accessible via Kodi[/COLOR]
 
-[COLOR white]We Simply Gather The Links & Make Them Accessible To You Via Kodi[/COLOR]
-
-[COLOR red]Press OK To Continue[/COLOR]
+[COLOR white]Press [COLOR red][B]OK[/B][/COLOR] To Continue[/COLOR]
