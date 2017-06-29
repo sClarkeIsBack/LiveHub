@@ -4,7 +4,7 @@
 [COLOR white]Repository: [/COLOR][COLOR red]http://archive.org/download/repository.streamhub[/COLOR]
 
 [COLOR white]All Content Found Within This Addon is Found On The Internet[/COLOR]
-[COLOR white]I [/COLOR][COLOR red][B]DO NOT[/B][/COLOR] [COLOR white]Own or Host Any Of The Content Found Within This Addon[/COLOR]
+[COLOR white]I [/COLOR][COLOR red][B]DO NOT[/B][/COLOR] [COLOR white]Own or Host Any Of The Content Found Within This Addon, Therefore I  Take [/COLOR][COLOR red][B]NO[/B][/COLOR][COLOR white] Responsibility For The Stability Or Quality Of The Streams[/COLOR]
 [COLOR white]I Simply Gather The Links For You, Making Them Accessible via Kodi[/COLOR]
 
 [COLOR white]Press [COLOR red][B]OK[/B][/COLOR] To Continue[/COLOR]
