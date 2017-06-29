@@ -8,3 +8,5 @@
 [COLOR white]We Simply Gather The Links For You, Making Them Accessible via Kodi[/COLOR]
 
 [COLOR white]Press [COLOR red][B]OK[/B][/COLOR] To Continue[/COLOR]
+
+[COLOR white]Kodi V:[/COLOR][COLOR red] %s[/COLOR]   [COLOR white]Live Hub V:[/COLOR][COLOR red] %s[/COLOR]
